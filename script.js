@@ -1,4 +1,4 @@
-
+// thi is a comment
 const tableKey = 'cms-table';
 let clearBtn = document.getElementById('clearBtn');
 clearBtn.addEventListener('click',()=>{
